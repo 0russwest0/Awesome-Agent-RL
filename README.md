@@ -16,6 +16,11 @@ If you would like to train your own agent with reinforcement learning, take a lo
 > **Note:** The specific focus on end-to-end training (rather than single-step optimization)
 
 
+### Verlog
+
+[2508] [Verlog: A Multi-turn RL framework for LLM agents](https://wentsechen.github.io/Verlog_blogpost/) [Code 💻](https://github.com/WentseChen/Verlog)
+*Wen-Tse Chen, Jiayu Chen, Hao Zhu, Jeff Schneider*
+
 ### ASearcher
 
 [2508] [Beyond Ten Turns: Unlocking Long-Horizon Agentic Search with Large-Scale Asynchronous RL](https://arxiv.org/pdf/2508.07976) [Code 💻](https://github.com/inclusionAI/ASearcher)
