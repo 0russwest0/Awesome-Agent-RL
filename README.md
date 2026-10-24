@@ -15,6 +15,11 @@ If you would like to train your own agent with reinforcement learning, take a lo
 
 > **Note:** The specific focus on end-to-end training (rather than single-step optimization)
 
+### ToolMaster
+
+[2601] [Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction](https://arxiv.org/abs/2601.12762) [Code 💻](https://github.com/NEUIR/ToolMaster)
+*Xingjie Gao, Pengcheng Huang, Zhenghao Liu, Yukun Yan, Shuo Wang, Zulong Chen, Chen Qian, Ge Yu, Yu Gu*
+
 ### VL-DAC
 
 [2508] [Enhancing Vision-Language Model Training with Reinforcement Learning in Synthetic Worlds for Real-World Success](https://arxiv.org/abs/2508.04280) [Code 💻](https://github.com/corl-team/VL-DAC)
